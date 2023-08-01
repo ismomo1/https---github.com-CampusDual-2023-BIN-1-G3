@@ -23,5 +23,15 @@
   "NAME": "Nombre",
   "SURNAME": "Apellido",
   "STARTDATE": "Fecha de comienzo",
-  "EMAIL": "Correo"
+  "EMAIL": "Correo",
+  "dev": "Dev",
+  "date": "Fecha",
+  "scan_volume": "Volumen escaneado",
+  "calculated_volume": "Volumen calculado",
+  "plate": "Matrícula",
+  "height": "Altura",
+  "width": "Ancho",
+  "length": "Longitud",
+  "trailer_plate": "Matrícula de trailer",
+  "delivery_note": "Número de envío"
 }

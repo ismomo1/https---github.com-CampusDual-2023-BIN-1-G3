@@ -23,5 +23,15 @@
   "NAME": "Name",
   "SURNAME": "Surname",
   "STARTDATE": "Startdate",
-  "EMAIL": "Email"
+  "EMAIL": "Email",
+  "dev": "Dev",
+  "date": "Date",
+  "scan_volume": "Scanned volume",
+  "calculated_volume": "Calculated volume",
+  "plate": "Plate",
+  "height": "Height",
+  "width": "Width",
+  "length": "Length",
+  "trailer_plate": "Trailer plate",
+  "delivery_note": "Delivery note"
 }
